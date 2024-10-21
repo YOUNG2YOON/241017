@@ -1,0 +1,206 @@
+@charset "utf-8";
+
+body {
+  color: #555;
+  text-align: center;
+}
+
+.title1 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 3rem;
+  text-transform: capitalize;
+  letter-spacing: 2px;
+  color: #212529;
+  padding-bottom: 30px;
+}
+
+.title2 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 1.6rem;
+  text-transform: capitalize;
+  color: #212529;
+}
+
+.title3 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 1.2rem;
+  text-transform: capitalize;
+  padding: 20px 30px 0 30px;
+  color: #212529;
+}
+
+.title4 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  text-align: left;
+  padding: 20px 0;
+}
+
+.sub3 {
+  text-align: left;
+}
+
+p {
+  text-transform: capitalize;
+}
+
+address {
+  font-style: normal;
+}
+
+.title .branding,
+.title .development,
+.title .analysis,
+.title .marketing {
+  padding: 40px;
+}
+
+.title-image .img-branding {
+  position: relative;
+  z-index: -1;
+}
+
+.title-image .img-branding img {
+  opacity: 0.5;
+}
+
+.title-image .img-branding h2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+
+.title-image .img-development {
+  position: relative;
+  z-index: -1;
+}
+
+.title-image .img-development img {
+  opacity: 0.5;
+}
+
+.title-image .img-development h2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+
+.title-image .img-analysis {
+  position: relative;
+  z-index: -1;
+}
+
+.title-image .img-analysis img {
+  opacity: 0.5;
+}
+
+.title-image .img-analysis h2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+
+.title-image .img-marketing {
+  position: relative;
+  z-index: -1;
+}
+
+.title-image .img-marketing img {
+  opacity: 0.5;
+}
+
+.title-image .img-marketing h2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+
+.title-image .img-design {
+  position: relative;
+  z-index: -1;
+}
+
+.title-image .img-design img {
+  opacity: 0.5;
+}
+
+.title-image .img-design h2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+.title-image .img-strategy1 {
+  position: relative;
+  z-index: -1;
+}
+
+.title-image .img-strategy1 img {
+  opacity: 0.5;
+}
+
+.title-image .img-strategy1 h2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.title-image .img-strategy2 {
+  position: relative;
+  z-index: -1;
+}
+
+.title-image .img-strategy2 img {
+  opacity: 0.5;
+}
+
+.title-image .img-strategy2 h2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* 
+.title-image .img-branding .img-wrapper,
+.title-image .img-development .img-wrapper,
+.title-image .img-analysis .img-wrapper,
+.title-image .img-marketing .img-wrapper,
+.title-image .img-design .img-wrapper,
+.title-image .img-strategy1 .img-wrapper,
+.title-image .img-strategy2 .img-wrapper {
+} */
+
+/* .title-image .img-branding,
+.title-image .img-development,
+.title-image .img-analysis,
+.title-image .img-marketing,
+.title-image .img-design,
+.title-image .img-strategy1,
+.title-image .img-strategy2 {
+
+} */
+
+.sub2 {
+  padding: 20px 30px;
+}
